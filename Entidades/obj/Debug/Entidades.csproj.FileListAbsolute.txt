@@ -1,0 +1,6 @@
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\bin\Debug\Entidades.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\bin\Debug\Entidades.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\obj\Debug\Entidades.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Entidades\obj\Debug\Entidades.pdb
