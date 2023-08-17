@@ -29,3 +29,23 @@ C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programa
 C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Presentacion\obj\Debug\Presentacion.Juego.resources
 C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Presentacion\obj\Debug\Presentacion.Menu.resources
 C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Puzzle\Presentacion\obj\Debug\Presentacion.Guardado.resources
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Entidades.dll
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Logica.dll
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Datos.dll
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Logica.pdb
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\bin\Debug\Datos.pdb
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.Guardado.resources
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.Juego.resources
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\starr\Source\Repos\Sergio5423\Puzzle\Presentacion\obj\Debug\Presentacion.pdb
